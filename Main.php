@@ -1,6 +1,4 @@
-<<<<<<< HEAD
+M3
 M1
-=======
 M2
->>>>>>> BUG1
 CONTENU MAIN
